@@ -1,0 +1,1 @@
+this is the second bug which has been created in the hotfix branch and the file name is bug2.txt
